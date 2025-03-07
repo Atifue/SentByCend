@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		531D17562D7B81A900C4D02F /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 531D17552D7B81A400C4D02F /* HomeView.swift */; };
 		C09F1A812D7B6AB1004BB785 /* SentByCentApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C09F1A802D7B6AB1004BB785 /* SentByCentApp.swift */; };
 		C09F1A832D7B6AB1004BB785 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C09F1A822D7B6AB1004BB785 /* ContentView.swift */; };
 		C09F1A852D7B6AB6004BB785 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C09F1A842D7B6AB6004BB785 /* Assets.xcassets */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		531D17552D7B81A400C4D02F /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		C09F1A7D2D7B6AB1004BB785 /* SentByCent.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SentByCent.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C09F1A802D7B6AB1004BB785 /* SentByCentApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SentByCentApp.swift; sourceTree = "<group>"; };
 		C09F1A822D7B6AB1004BB785 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 			isa = PBXGroup;
 			children = (
 				C09F1A802D7B6AB1004BB785 /* SentByCentApp.swift */,
+				531D17552D7B81A400C4D02F /* HomeView.swift */,
 				C09F1A822D7B6AB1004BB785 /* ContentView.swift */,
 				C09F1A842D7B6AB6004BB785 /* Assets.xcassets */,
 				C09F1A892D7B6AB6004BB785 /* Persistence.swift */,
@@ -266,6 +269,7 @@
 				C09F1A8A2D7B6AB6004BB785 /* Persistence.swift in Sources */,
 				C09F1A832D7B6AB1004BB785 /* ContentView.swift in Sources */,
 				C09F1A8D2D7B6AB6004BB785 /* SentByCent.xcdatamodeld in Sources */,
+				531D17562D7B81A900C4D02F /* HomeView.swift in Sources */,
 				C09F1A812D7B6AB1004BB785 /* SentByCentApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
